@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-20T20:23:12 IST" name="Default suite" finished-at="2026-10-20T20:23:28 IST" duration-ms="15621">
+    <groups>
+    </groups>
+    <test started-at="2026-10-20T20:23:12 IST" name="Default test" finished-at="2026-10-20T20:23:28 IST" duration-ms="15621">
+      <class name="task1.HrmTask">
+        <test-method is-config="true" signature="launch_page()[pri:0, instance:task1.HrmTask@3c407114]" started-at="2026-10-20T20:23:12 IST" name="launch_page" finished-at="2026-10-20T20:23:21 IST" duration-ms="8875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_page -->
+        <test-method signature="login()[pri:0, instance:task1.HrmTask@3c407114]" started-at="2026-10-20T20:23:21 IST" name="login" finished-at="2026-10-20T20:23:23 IST" duration-ms="2121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="navigate_pim()[pri:1, instance:task1.HrmTask@3c407114]" started-at="2026-10-20T20:23:23 IST" name="navigate_pim" finished-at="2026-10-20T20:23:25 IST" duration-ms="1806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_pim -->
+        <test-method signature="add_employee()[pri:2, instance:task1.HrmTask@3c407114]" started-at="2026-10-20T20:23:25 IST" name="add_employee" finished-at="2026-10-20T20:23:28 IST" duration-ms="2786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_employee -->
+      </class> <!-- task1.HrmTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
